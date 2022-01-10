@@ -11,8 +11,7 @@ Link for the project video: <a href="https://youtu.be/m0N00ROwzSU" target="_blan
 - uartTransmitterTB.vhd  =>  Testbench RTL Code<br>
 - uartReceiver.vhd   =>  Entity RTL Code<br>
 - uartReceiverTB.vhd  =>  Testbench RTL Code<br>
-- uartTransceiverBlock.JPG  =>  Transceiver Entity block<br> 
-
+- uartTransceiverBlock.JPG  =>  Transceiver Entity block<br>
 - uartReceiverBlock.JPG => Receiver Entity block<br>
 - Rx FSM.JPG => Receiver Finite State Machine<br>
 - uartReceiverTB_messages.JPG => Testbench messages plot<br>
