@@ -11,30 +11,46 @@ Link for the project video: <a href="https://youtu.be/m0N00ROwzSU" target="_blan
 - uartTransmitterTB.vhd  =>  Testbench RTL Code<br>
 - uartReceiver.vhd   =>  Entity RTL Code<br>
 - uartReceiverTB.vhd  =>  Testbench RTL Code<br>
-- uartTransceiverBlock.JPG  =>  Entity block<br> 
-  
+- uartTransceiverBlock.JPG  =>  Transceiver Entity block<br> 
 
-- sequenceDetector.JPG  =>  The design shell<br>
-- sequenceDetectorTB - FSM.JPG  =>  Testing the Sequence detector<br>
-- sequenceDetectorTB.JPG  =>  Testing the Sequence detector<br>
-- sequenceDetectorTB2.JPG  =>  Testing the Sequence detector<br>
-- sequenceDetectorTB3.JPG  =>  Testing the Sequence detector<br>
+- uartReceiverBlock.JPG => Receiver Entity block<br>
+- Rx FSM.JPG => Receiver Finite State Machine<br>
+- uartReceiverTB_messages.JPG => Testbench messages plot<br>
+- uartReceiverTB.JPG => Testing the Receiver<br>
+- uartReceiverTB1.JPG => Testing the Receiver<br>
+- error found while debugging.jpg => Parity Bit error found while debugging the testbench<br>
+
+- uartTransmitterBlock.JPG => Transmitter Entity block<br>
+- Tx FSM.JPG => Transmitter Finite State Machine<br>
+- uartTransmitterTB_messages.JPG => Testbench messages plot<br>
+- uartTransmitterTB.JPG => Testing the Transmitter<br>
+- uartTransmitterTB1.JPG => Testing the Transmitter<br>
 </p>
 <table>
     <tr>
-            <td><img src="https://github.com/Matanlaza89/Sequence-Detector/blob/main/Images/sequenceDetector.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Sequence-Detector/blob/main/Images/sequenceDetectorBlock.JPG" alt=""></td>
             <td><img src="https://github.com/Matanlaza89/Sequence-Detector/blob/main/Images/sequenceDetectorTB%20-%20FSM.JPG" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Receiver/images/uartReceiverBlock.JPG" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Receiver/images/Rx%20FSM.JPG" alt=""></td>  
      </tr>
      <tr>
-            <td><img src="https://github.com/Matanlaza89/Sequence-Detector/blob/main/Images/sequenceDetectorTB.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Sequence-Detector/blob/main/Images/sequenceDetectorTB2.JPG" alt=""></td>
-            <td><img src="https://github.com/Matanlaza89/Sequence-Detector/blob/main/Images/sequenceDetectorTB3.JPG" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Receiver/images/uartReceiverTB_messages.JPG" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Receiver/images/uartReceiverTB.JPG" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Receiver/images/uartReceiverTB1.JPG" alt=""></td>
+   	 </tr>
+     <tr>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Receiver/images/error%20found%20while%20debugging.jpg" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Transmitter/images/uartTransmitterBlock.JPG" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Transmitter/images/Tx%20FSM.JPG" alt=""></td>
+   	 </tr>
+     <tr>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Transmitter/images/uartTransmitterTB_messages.JPG" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Transmitter/images/uartTransmitterTB.JPG" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Transmitter/images/uartTransmitterTB1.JPG" alt=""></td>
    	 </tr>
 </table>
 
 <h1><u>Testbench Tasks</u></h1>
 <p>
-- Testing the sequence detector of all possible variations.<br>
-- 2 ^ 4 = 16 possibilities.<br><br>
+- Checking the operation of the UART transmitter.<br>
+- Checking the operation of the UART receiver.<br><br>
 </p>
