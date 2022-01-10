@@ -26,7 +26,7 @@ Link for the project video: <a href="https://youtu.be/m0N00ROwzSU" target="_blan
 </p>
 <table>
     <tr>
-            <td><img src="https://github.com/Matanlaza89/Sequence-Detector/blob/main/Images/sequenceDetectorTB%20-%20FSM.JPG" alt=""></td>
+            <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/uartTransceiverBlock.JPG" alt=""></td>
             <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Receiver/images/uartReceiverBlock.JPG" alt=""></td>
             <td><img src="https://github.com/Matanlaza89/UART-Transceiver/blob/main/Receiver/images/Rx%20FSM.JPG" alt=""></td>  
      </tr>
