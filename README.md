@@ -11,15 +11,13 @@ Link for the project video: <a href="https://youtu.be/m0N00ROwzSU" target="_blan
 - uartTransmitterTB.vhd  =>  Testbench RTL Code<br>
 - uartReceiver.vhd   =>  Entity RTL Code<br>
 - uartReceiverTB.vhd  =>  Testbench RTL Code<br>
-- uartTransceiverBlock.JPG  =>  Transceiver Entity block<br>
-
+- uartTransceiverBlock.JPG  =>  Transceiver Entity block<br><br>
 - uartReceiverBlock.JPG => Receiver Entity block<br>
 - Rx FSM.JPG => Receiver Finite State Machine<br>
 - uartReceiverTB_messages.JPG => Testbench messages plot<br>
 - uartReceiverTB.JPG => Testing the Receiver<br>
 - uartReceiverTB1.JPG => Testing the Receiver<br>
-- error found while debugging.jpg => Parity Bit error found while debugging the testbench<br>
-
+- error found while debugging.jpg => Parity Bit error found while debugging the testbench<br><br>
 - uartTransmitterBlock.JPG => Transmitter Entity block<br>
 - Tx FSM.JPG => Transmitter Finite State Machine<br>
 - uartTransmitterTB_messages.JPG => Testbench messages plot<br>
