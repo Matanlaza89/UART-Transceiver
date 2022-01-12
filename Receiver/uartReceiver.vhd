@@ -50,7 +50,6 @@ architecture rtl of uartReceiver is
 begin
 	-- This process receives the UART data frame --
 	p_uart_receiver : process (i_Clk) is
-		--variable r_Parity_Bit : std_logic := '0';
 	begin
 		if (rising_edge(i_Clk)) then
 			
