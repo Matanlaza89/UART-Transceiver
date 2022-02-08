@@ -1,7 +1,6 @@
 <h2><u>Welcome to UART Transceiver Personal Project using VHDL</u></h2>
 <p>
- This project creates a UART Transceiver that shares data with the laptop and displays it on the 7 segment display and the serial communication terminal on the laptop.<br><br>
-Link for the project video: <a href="https://youtu.be/m0N00ROwzSU" target="_blank">UART Transceiver Project Video</a>
+ This project creates a UART Transceiver that shares data with the laptop and displays it on the 7 segment display and the serial communication terminal on the laptop.
 </p>
 <h4><u>Files included:</u></h4>
 <u></u>
